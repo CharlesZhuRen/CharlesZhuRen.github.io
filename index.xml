@@ -1,37 +1,3 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Ren's site</title><link>http://CharlesZhuRen.github.io/</link><description>任尔东西南北风</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>charleszhuren@gmail.com (ren)</managingEditor><webMaster>charleszhuren@gmail.com (ren)</webMaster><lastBuildDate>Wed, 14 Feb 2024 14:54:26 +0800</lastBuildDate><atom:link href="http://CharlesZhuRen.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Ideas</title><link>http://CharlesZhuRen.github.io/posts/ideas/</link><pubDate>Wed, 14 Feb 2024 14:54:26 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/ideas/</guid><description>Here are some ideas that I am interesred in.
-Dashboard of Everything A web app that helps you monitor any changing things. (e.g. crypto, stock, exchange) User can set what to monitor and set bottom or change alerts. tech to be used: PyCrawler + Flask College Rankings based on Faculty Generally, if college A is better than college B, then a PhD who graduated from A can be a faculty at B, but a PhD who graduated from B cannot be a faculty at A.</description></item><item><title>未来人的预言</title><link>http://CharlesZhuRen.github.io/posts/%E6%9C%AA%E6%9D%A5%E4%BA%BA%E7%9A%84%E9%A2%84%E8%A8%80/</link><pubDate>Tue, 06 Feb 2024 05:01:08 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/%E6%9C%AA%E6%9D%A5%E4%BA%BA%E7%9A%84%E9%A2%84%E8%A8%80/</guid><description>简介 国分玲是X上的一位用户, 他/她自称来自于2058年. 从2019年12月到2021年9月, 她/他一直在发布对未来的预言, 其中有一些已经被证实.
-本文收录了他/她所发表的全部预言, 并标注了每条预言是否应验(是/否/未证实)以及相关信息.
-预言 序号 时间 内容 是否应验 备注 1 2019.12.15 日本在东京奥运会上获得了27枚金牌. 是 日本代表团拿下27枚金牌、58枚奖牌位列第三, 创该国参加奥运会以来的最好成绩.相关链接 2 2019.12.15 读卖巨人队将赢得2020年中央联赛冠军. 是 读卖巨人队在近十年来共获得三次中央联赛冠军, 分别是在2014年、2019年和2020年.相关链接 3 2019.12.15 日经平均指数将在2020年3月暴跌. 只有那些相信的人才能得救. 是 2020年3月16日, 随着美联储宣布紧急降息, 亚太区股市全线大跌, 日经指数收报17002点, 挫429点或2.46%. 这一天被称为“黑色星期一”. 相关链接 4 2019.12.15 安倍首相将于2020年9月辞职。 否 2020年8月28日, 65岁的安倍晋三举行新闻发布会, 决定辞任首相. 相关链接 5 2019.12.15 安倍首相的继任者是时任内阁官房长官菅义伟. 是 相关链接 6 2019.12.15 顺便说一句，川崎前锋将赢得 2020 年 J1 冠军。感觉就像又发生了一样。 是 相关链接 7 2020.4.9 东京奥运会将于2021年7月23日举行。所以现在虽然很困难，但不用担心。 是 早在本条推文发布前的2020.3.30, 奥组委就已宣布东京奥运会将于2021年7月23日. 但考虑到当时的疫情形势, 这一决定仍有推迟可能. 本推文主旨在于预测东京奥运会不会因为疫情形势变化而再一次推迟. 东京奥运会将于2021.7.23举行 8 2021.</description></item><item><title>如何与底层打交道</title><link>http://CharlesZhuRen.github.io/posts/%E5%A6%82%E4%BD%95%E4%B8%8E%E5%BA%95%E5%B1%82%E6%89%93%E4%BA%A4%E9%81%93/</link><pubDate>Thu, 01 Feb 2024 05:48:20 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/%E5%A6%82%E4%BD%95%E4%B8%8E%E5%BA%95%E5%B1%82%E6%89%93%E4%BA%A4%E9%81%93/</guid><description><![CDATA[转自知乎
-如何与社会底层的人打交道?
-首先，不要因为他们过的很苦就同情他们。
-其次，时刻保持警惕，不要给他们套你信息的机会。
-最后，随时准备跑路或报警。
-如果做不到这几点，就不要跟社会底层人打交道，否则你必被扒一层皮。
-最后的最后，给句忠告，不要指望能跟社会底层建立什么“交情”，因为不管你跟他们有过什么样的交情，对他们有多好。 只要有那种坑害你就能获利的机会时，这些人就绝对不会有任何犹豫地利用这个机会去坑害你。
-对待底层的人，比如装修工人之类的，不用太好。
-对他们越好，服务质量越差，越让你闹心，问题越多。
-为什么?
-他们情商不高，你的善良在他们心里，等同于软弱，不欺负你 欺负谁呀。
-不能示好，不能自嘲，因为他们蠢，自嘲会当真。
-尽可能低调。如果不得不暴露自己，一定要不经意暴露自己比他们过得好，地位高。
-如果你不属于社会底层，但需要聘请他们为你服务，比如请月嫂、家政、搬家公司、司机等，那么和他们交流请务必简短明确，发号施令即可，一句废话都不要说。
-&ldquo;窗台弄干净点。&rdquo;
-&ldquo;下午四点之前必须完成，如果没完成我不会额外付钱。&rdquo;
-“孩子哭了马上告诉我不要隐瞒。&quot;
-&ldquo;你如果有事临时要走不要拖，马上告诉我。&rdquo;
-“1号箱子放到进门后东面的房间。&quot;
-&ldquo;三小时的工钱是300块，三小时你需要帮我把这里全部打扫一遍，检查标准是没有显眼的脏污，达不到要求会扣费。&rdquo;
-&ldquo;下午四点去车站接张老板，送他到X酒店门口，他身高中等偏胖，戴一副眼镜，送他的过程不要闲聊。&rdquo;
-“明天早上八点送我儿子去幼儿园，李老师会在门口接他，没有见到老师之前不要让他下车。&quot;
-&hellip;..
-诸如此类。
-必须交代清楚时间地点人物，事情的内容，以及没有办妥的后果，这样他们才能知道怎样更好地配合你。
-底层百姓的思维是比较迟钝的，对信息的处理能力相对偏弱，需要非常强有力的指令才能加强记忆。底层百姓的思维是比较迟钝的，对信息的处理能力相对偏弱，需要非常强有力的指令才能加强记忆。
-如果你没有说清楚就不能怪他们马虎大意，马虎大意就是他们的特征之一，机灵能干就不会呆在底层了。
-因此，非底层的你对弱于你的人要包容，要把自己的分内之事做好。
-不要对他们持有过度乐观的预期，他们不把事情办砸你应该谢天谢地。
-万一办砸了也是情理之中。
-这里有一个提示，太重要的事情务必亲力亲为，不可轻易托付给你没有把握的人，别理所当然的认 为对方应该尽职尽责，人人的素质和能力都不一样。
-且不谈真正意义上的社会底层了, 我在求学过程中接触过的一些人也是和此文中所描述的底层一样, 理解力差、执行力差、情商低、有点交情就蹬鼻子上脸. 对待这种人时, 一定要避免流露出半点人性, 这样才能最大程度地保护好自己.]]></description></item><item><title>香港七日游攻略</title><link>http://CharlesZhuRen.github.io/posts/%E9%A6%99%E6%B8%AF%E4%B8%83%E6%97%A5%E6%B8%B8%E6%94%BB%E7%95%A5/</link><pubDate>Thu, 01 Feb 2024 04:04:09 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/%E9%A6%99%E6%B8%AF%E4%B8%83%E6%97%A5%E6%B8%B8%E6%94%BB%E7%95%A5/</guid><description>有朋自远方来, 特编写香港七日游攻略一份, 以供参考.
-香港七日游攻略</description></item><item><title>Hello</title><link>http://CharlesZhuRen.github.io/posts/hello/</link><pubDate>Sun, 02 Apr 2023 17:43:42 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/hello/</guid><description>Hello, world!
+Dashboard of Everything A web app that helps you monitor any changing things. (e.g. crypto, stock, exchange) User can set what to monitor and set bottom or change alerts. tech to be used: PyCrawler + Flask College Rankings based on Faculty Generally, if college A is better than college B, then a PhD who graduated from A can be a faculty at B, but a PhD who graduated from B cannot be a faculty at A.</description></item><item><title>Hello</title><link>http://CharlesZhuRen.github.io/posts/hello/</link><pubDate>Sun, 02 Apr 2023 17:43:42 +0800</pubDate><author>ren</author><guid>http://CharlesZhuRen.github.io/posts/hello/</guid><description>Hello, world!
 This is the first post on my site. I will share my feelings and thoughts with you here.</description></item></channel></rss>
